@@ -1,1 +1,1 @@
-# AI_for_Medicine_Specalization
+# AI for Medicine Specalization
