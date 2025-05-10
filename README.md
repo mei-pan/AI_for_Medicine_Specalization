@@ -10,7 +10,7 @@ Objectives:
   - #### Assigment: Chest X-Ray Medical Diagnosis with Deep Learning [Link](https://github.com/mei-pan/AI_for_Medicine_Specalization/blob/main/Course%201/C1_Week1/C1_W1_Assignment.ipynb)
     
 - #### Week 2: Evaluating Models
-  - #### Assigment: Evaluation of Diagnostic Models [Link](hhttps://github.com/mei-pan/AI_for_Medicine_Specalization/blob/main/Course%201/C1_Week2/C1_W2_Assignment.ipynb)
+  - #### Assigment: Evaluation of Diagnostic Models [Link](https://github.com/mei-pan/AI_for_Medicine_Specalization/blob/main/Course%201/C1_Week2/C1_W2_Assignment.ipynb)
     
 
 - #### Week 3: Image Segmentataion on MRI Images
