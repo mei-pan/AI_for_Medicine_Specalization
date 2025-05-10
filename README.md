@@ -7,16 +7,15 @@ This specialization by deeplearning.ai divided into 3 courses focuses on the app
 ### Course 1: AI in Medical Diagnois [Course Link](https://www.coursera.org/learn/ai-for-medical-diagnosis?specialization=ai-for-medicine) 
 Objectives: 
 - #### Week 1: Disease Detection with Computer Vision
-  - Lab: Data Exploration and Cancer Diagnosis [Link](https://duckduckgo.com/?q=tremendous&ia=web)
-  - Lab: Counting Labels and Weight loss Function [Link](https://duckduckgo.com/?q=tremendous&ia=web)
-  - Lab: Densent [Link](https://duckduckgo.com/?q=tremendous&ia=web)
-  - Lab: Patient Overlap and Data Leakage [Link](https://duckduckgo.com/?q=tremendous&ia=web)
-  - #### Assigment: Chest X-Ray Medical Diagnosis with Deep Learning [Link](https://duckduckgo.com/?q=tremendous&ia=web)
+  - #### Assigment: Chest X-Ray Medical Diagnosis with Deep Learning [Link](https://github.com/mei-pan/AI_for_Medicine_Specalization/blob/main/Course%201/C1_Week1/C1_W1_Assignment.ipynb)
     
 - #### Week 2: Evaluating Models
-  - 
-- #### Week 3: Image Segmentataion on MRI Images 
-  - 
+  - #### Assigment: Evaluation of Diagnostic Models [Link](hhttps://github.com/mei-pan/AI_for_Medicine_Specalization/blob/main/Course%201/C1_Week2/C1_W2_Assignment.ipynb)
+    
+
+- #### Week 3: Image Segmentataion on MRI Images
+  #### Assigment: Brain Tumor MRI Segmentation [Link](https://github.com/mei-pan/AI_for_Medicine_Specalization/blob/main/Course%201/C1_Week3/C1_W3_Assignment.ipynb)
+  
 ### Course 2: AI in Medical Prognosis  [Course Link](https://www.coursera.org/learn/ai-for-medical-prognosis?specialization=ai-for-medicine) 
 Objectives:
  - Understand what is prognosis and routine clinical practice of risk evaluation.
